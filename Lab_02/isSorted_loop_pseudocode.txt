@@ -1,0 +1,11 @@
+int[] array = user-input size
+boolean isSorted = true
+for int i = second index of array, i less than array size, do
+    if i is less than i - 1 then
+        isSorted = false
+end loop
+print array
+print whether array is sorted in increasing order
+
+
+Collaborators: Ariana De Santiago
